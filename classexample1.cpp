@@ -1,11 +1,3 @@
-/*
-Program Name:
-Programmer: Blake Lindsay
-Course: CSC119144 Introduction to Programming  C++ Spring 2022
-Submission Date:
-Description
-*/
-
 #include <iostream>
 
 using namespace std;

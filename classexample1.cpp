@@ -51,7 +51,7 @@ int displayMenu()
 	cout << "Enter your selection [1 - 6]: ";
 	while (!(cin >> answer) || !(answer >= 1 && answer <= 6))
 	{
-		cout << "Invalis selection, please select [1 - 6]: ";
+		cout << "Invalid selection, please select [1 - 6]: ";
 		cin.clear();
 		cin.ignore(100, '\n');
 	}
